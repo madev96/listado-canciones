@@ -1,0 +1,20 @@
+{
+    "data": [
+        {
+            "nombre": "cancion1",
+            "url": "https://raw.githubusercontent.com/madev96/listado-canciones/refs/heads/main/music1.mp3"
+        },
+        {
+            "nombre": "cancion2",
+            "url": "https://raw.githubusercontent.com/madev96/listado-canciones/refs/heads/main/music2.mp3"
+        },
+        {
+            "nombre": "",
+            "url": ""
+        },
+        {
+            "nombre": "",
+            "url": ""
+        }
+    ]
+}
